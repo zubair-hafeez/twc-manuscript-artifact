@@ -1,0 +1,10 @@
+[
+  {
+    "snapshot": "summary_v3.json",
+    "sha256": "ad32f44202048e886e03fedf0372e5a8dbe3b4e0cbaa0aa8d1e2333e85f7b51a"
+  },
+  {
+    "snapshot": "summary.json",
+    "sha256": "7b3b4f1ae11d30d345b4d6321551ccbe98424398ad6525f5cdcfee80a38c706c"
+  }
+]
