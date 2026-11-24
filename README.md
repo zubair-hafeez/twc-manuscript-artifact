@@ -11,5 +11,4 @@ python3 analysis/generate_tables.py
 
 The script checks the SHA-256 hashes in `evidence/manifest.json` and writes
 six tables and the headline macros under `manuscript/`. It uses Python's
-standard library and reads saved measurements. The experiment code and
-protocols are in [version2TWC](https://github.com/zubair-hafeez/version2TWC).
+standard library and reads saved measurements.
